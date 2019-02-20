@@ -2,3 +2,5 @@
 *.pyc
 # swap file
 *.swp
+# ipython jupyter nobebook checkpoint
+.ipynb_checkpoints
